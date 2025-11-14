@@ -48,11 +48,3 @@ mysql_data/
 *.temp
 *.local
 
-# Media and document files
-*.png
-*.jpg
-*.jpeg
-*.txt
-*.md
-*.pdf
-
